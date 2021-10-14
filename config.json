@@ -1,0 +1,13 @@
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "Fizz", 
+	"zeksKey": "CpGSLymOQy9KfTKgQZr9eDSYqqR",
+	"autoRead": false,
+	"self": false, 
+	"maxLimit": 10,
+	"ownerList": ["6285892842367@s.whatsapp.net", "6289636120564@s.whatsapp.net"],
+	"apiUrl": "https://api.zeks.me",
+    "imgUrl": "https://i.ibb.co/Yt1n2rd/ffacbb94965a.jpg",
+	"pack": "Yang Nyolong Nak Babi",
+	"author": "H a f i z z G z"
+}
